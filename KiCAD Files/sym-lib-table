@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "EconetPodule")(type "KiCad")(uri "${KIPRJMOD}//EconetPodule.kicad_sym")(options "")(descr "Econet Podule"))
+  (version 7)
+  (lib (name "EconetPodule")(type "KiCad")(uri "${KIPRJMOD}/EconetPodule.kicad_sym")(options "")(descr "Econet Podule"))
 )
