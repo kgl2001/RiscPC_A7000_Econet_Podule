@@ -1,0 +1,22 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*
+G04 #@! TF.CreationDate,2025-10-14T13:16:44+01:00*
+G04 #@! TF.ProjectId,A7000PoduleFacePlate,41373030-3050-46f6-9475-6c6546616365,01*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Soldermask,Top*
+G04 #@! TF.FilePolarity,Negative*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2025-10-14 13:16:44*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,4.000000*%
+G04 APERTURE END LIST*
+D10*
+X98496000Y-95045000D03*
+X129746000Y-88545000D03*
+X220996000Y-95045000D03*
+X206246000Y-91045000D03*
+X113246000Y-91045000D03*
+M02*
