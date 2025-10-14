@@ -1,5 +1,5 @@
 Econet Podule - Schematic:
-![podule_econet](https://github.com/kgl2001/RiscPC_A7000_Econet_Podule/assets/36017029/d72ddee9-7797-4f74-a8e7-15f73c5f8430)
+![Econet_Podule_Schematic](https://github.com/user-attachments/assets/3d9549ed-f939-44f4-a854-83617e436b97)
 
 Econet Podule - 3D Render:
-![podule_econet](https://github.com/kgl2001/RiscPC_A7000_Econet_Podule/assets/36017029/4e259804-0313-4356-a720-cae8c1a999dd)
+![Econet_Podule_3D_Render](https://github.com/user-attachments/assets/9ff163a5-c931-4732-b8fc-92ea635663b0)
