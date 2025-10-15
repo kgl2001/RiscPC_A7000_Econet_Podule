@@ -82,7 +82,7 @@
 		(tenting front back)
 		(grid_origin 223.83 147.046)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_555555f0)
+			(layerselection 0x00000000_00000000_55555555_5f55fff5)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -114,7 +114,7 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk yes)
-			(outputformat 3)
+			(outputformat 1)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
@@ -34961,7 +34961,7 @@
 			)
 		)
 		(property "Value" "74HCT139"
-			(at 5.1865 8.875 90)
+			(at 4.064 8.89 90)
 			(layer "F.SilkS")
 			(uuid "69b7c8d0-4665-4b0c-ac3b-29cefa123a37")
 			(effects
@@ -38716,6 +38716,17 @@
 		(layer "B.SilkS")
 		(uuid "7177a79b-3dd4-4786-b43a-4cf565a3fc41")
 	)
+	(gr_rect
+		(start 196.83 136.046)
+		(end 204.83 144.046)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "721197e4-4a47-4f13-89a7-b61df1627998")
+	)
 	(gr_arc
 		(start 118.103 144.342)
 		(mid 119.128126 141.867127)
@@ -39017,17 +39028,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "c723aa85-9dae-4417-98f5-1f4ea14e866d")
-	)
-	(gr_text "JLCJLCJLCJLC"
-		(at 108.0565 127 90)
-		(layer "F.SilkS")
-		(uuid "0ac5576b-efc4-4cda-9e39-62765b1d0fb0")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
 	)
 	(gr_text "PicoNet Clock"
 		(at 190.0985 58.964 0)
