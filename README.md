@@ -4,12 +4,12 @@ This Econet Podule allows you to add Econet to your Acorn RISC PC or A7000.
 
 The Podule has four main hardware sections:
   
-* [Flash & Address Decoding](#Flash_&_Address_Decoding)
-* [Econet Module](#Econet_Module)
+* [Flash & Address Decoding](#flash--address-decoding)
+* [Econet Module](#econet-module)
 * Econet Clock
-  - [WFF Implementation](#WFF_Implemenation)
-  - [Pico Implementation](#Pico_Implemenation)
-* [Termination](#Termination)
+  - [WFF Implementation](#econet-clock---wff-implementation)
+  - [Pico Implementation](#econet-clock---pico-implementation)
+* [Termination](#onboard-termination)
 
 By adding the Clock / Termination to the PCB, and by populating all four DIN5 sockets, the Acorn RISC PC or A7000 can act as an 'all in one' File Server solution when used along with Acorns Level 4 File Server software. No external clock, termination, or network infrastructure required. Just plug your client Econet enabled machine to one of the four DIN5 sockets on the rear of the board.
 
