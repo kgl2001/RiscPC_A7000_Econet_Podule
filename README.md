@@ -23,7 +23,7 @@ The Podule PCB is provided with a 5 and 17 pin header, so you can plug in an ADF
 
 Econet Data Tx, Data Rx and Clock LEDs are present on the PCB. However, these will only work if you plan to add the other Econet components directly to the PCB. They won't work if you plan to use an ADF-10 or AEH-52 module.
 
-If installing the Econet components directly onto the PCB, then one of the two channels of the line driver IC7 will be used by the onboard Econet clock circuit. If not installing the Econet clock circuit, it is still necessary to install resistor R31. This will disable the clock channel on the line driver, preventing it from interfering with any external clock.
+If installing the Econet components directly onto the PCB, then one of the two channels of the line driver IC7 will be available for use by the onboard Econet clock circuit. If not installing the Econet clock circuit, it is still necessary to install resistor R31. This will disable the clock channel on the line driver, preventing it from interfering with any external clock.
 
 ## Econet Clock - WFF Implementation
 The Econet clock is based on an original design by Simon Inns. Details can be found [here](https://www.waitingforfriday.com/?p=19).
